@@ -12,4 +12,4 @@
   
   ### 移動規則
   
-  ![GITHUB]( )
+  ![GITHUB](/img/p1.png)
