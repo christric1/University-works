@@ -5,11 +5,11 @@ using namespace std;
 
 int main() {
 
-	deck miko;  // 建立牌堆
+	deck miko;  
 
-	Game gura(miko);  // 建立遊戲
+	Game gura(miko);  
 
-	gura.GameStart();  // 開始遊戲
+	gura.GameStart(); 
 
 	return 0;
 }
