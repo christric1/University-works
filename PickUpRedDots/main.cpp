@@ -7,7 +7,7 @@ using namespace std;
 int main(void) {
 
 	Game miko;
-	miko.GameStart();  // ¹CÀ¸¶}©l
+	miko.GameStart(); 
 	system("pause");
 	return 0;
 }
